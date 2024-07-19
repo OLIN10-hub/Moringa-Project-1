@@ -26,3 +26,5 @@ Adding Items: Click on the "Add to Cart" button next to the item you wish to pur
 Removing Items: Click on the "Remove" button next to the item you wish to remove from the cart.
 Checkout: Click the "Checkout" button to proceed with the purchase.
 Close Cart: Click the "Close" button to hide the cart view.
+
+file:///home/olin/Videos/Screencast%202024-07-19%2006:00:16.mp4
