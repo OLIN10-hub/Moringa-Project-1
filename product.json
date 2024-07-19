@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name":" NIKE PRO FLY",
+        "price": 5000,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" NIKE PEGASUS 41",
+        "price": 4500,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" NIKE ULTRAFLY",
+        "price": 5000,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" NIKE FLEX 11",
+        "price": 6000,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":"NIKE JUNIPER TRAIL ",
+        "price": 6500,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" NIKE VAPORFLY 2",
+        "price": 7000,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" NIKE INFINITY ",
+        "price": 8000,
+        "image": "image/7.png"
+    }
+   
+
+] 
