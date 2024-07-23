@@ -1,5 +1,5 @@
 # Moringa-Project-1]
-VProject Requirements
+Project Requirements
 Your app must be a HTML/CSS/JS frontend that accesses data from a public API or from a db.json file using json-server. Your API or db.json should return a collection of at least 5 objects with each object having at least 3 attributes. All interactions between the client and the API should be handled asynchronously and use JSON as the communication format. Try to avoid using an API that requires a key. APIs that are free and require no authorization will be easiest to use. For ideas, see this list of no-auth APIsLinks to an external site.. If you would like to use an API that requires a key, please consult with your instructor on how to protect that key. NEVER push your API key to github!
 
 Your entire app must run on a single page. There should be NO redirects or reloads. In other words, your project will contain a single HTML file.
@@ -26,3 +26,6 @@ Adding Items: Click on the "Add to Cart" button next to the item you wish to pur
 Removing Items: Click on the "Remove" button next to the item you wish to remove from the cart.
 Checkout: Click the "Checkout" button to proceed with the purchase.
 Close Cart: Click the "Close" button to hide the cart view.
+
+Link to video of the Project
+https://www.loom.com/share/aacb02f2b356421dab141feb61e67ca9
